@@ -1,0 +1,10 @@
+[tool.poetry]
+name = "fcc-sea-level-predictor"
+version = "0.0.0"
+description=""
+authors = ["Your Name <you@example.com>"]
+
+[tool.poetry.dependencies]
+pandas = "*"
+python = "^3.8"
+scipy = "*"
